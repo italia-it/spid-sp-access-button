@@ -19,58 +19,31 @@ Il sistema richiede Jquery 1.8+.
 spid-sp-access-button/
 │
 ├── src/
-│   ├── development
-│   │   ├── spid-sp-access-button.html
-│   │   ├── css
-│   │   │   ├── spid-sp-access-button.min.css
-│   │   ├── img
-│   │   │   ├── spid-ico-circle-bb.png
-│   │   │   ├── spid-ico-circle-bb.svg
-│   │   │   ├── spid-idp-arubaid.png
-│   │   │   ├── spid-idp-arubaid.svg
-│   │   │   ├── spid-idp-infocertid.png
-│   │   │   ├── spid-idp-infocertid.svg
-│   │   │   ├── spid-idp-intesaid.png
-│   │   │   ├── spid-idp-intesaid.svg
-│   │   │   ├── spid-idp-namirialid.png
-│   │   │   ├── spid-idp-namirialid.svg
-│   │   │   ├── spid-idp-posteid.png
-│   │   │   ├── spid-idp-posteid.svg
-│   │   │   ├── spid-idp-sielteid.png
-│   │   │   ├── spid-idp-sielteid.svg
-│   │   │   ├── spid-idp-spiditalia.png
-│   │   │   ├── spid-idp-spiditalia.svg
-│   │   │   ├── spid-idp-timid.png
-│   │   │   ├── spid-idp-timid.svg
-│   │   ├── js
-│   │   │   ├── jquery.min.js
-│   │   │   ├── spid-sp-access-button.min.js
-│   ├── development
-│   │   ├── spid-sp-access-button.html
-│   │   ├── css
-│   │   │   ├── spid-sp-access-button.min.css
-│   │   ├── img
-│   │   │   ├── spid-ico-circle-bb.png
-│   │   │   ├── spid-ico-circle-bb.svg
-│   │   │   ├── spid-idp-arubaid.png
-│   │   │   ├── spid-idp-arubaid.svg
-│   │   │   ├── spid-idp-infocertid.png
-│   │   │   ├── spid-idp-infocertid.svg
-│   │   │   ├── spid-idp-intesaid.png
-│   │   │   ├── spid-idp-intesaid.svg
-│   │   │   ├── spid-idp-namirialid.png
-│   │   │   ├── spid-idp-namirialid.svg
-│   │   │   ├── spid-idp-posteid.png
-│   │   │   ├── spid-idp-posteid.svg
-│   │   │   ├── spid-idp-sielteid.png
-│   │   │   ├── spid-idp-sielteid.svg
-│   │   │   ├── spid-idp-spiditalia.png
-│   │   │   ├── spid-idp-spiditalia.svg
-│   │   │   ├── spid-idp-timid.png
-│   │   │   ├── spid-idp-timid.svg
-│   │   ├── js
-│   │   │   ├── jquery.min.js
-│   │   │   ├── spid-sp-access-button.min.js
+│   ├── spid-sp-access-button.html
+│   ├── css
+│   │   ├── spid-sp-access-button.min.css
+│   ├── img
+│   │   ├── spid-ico-circle-bb.png
+│   │   ├── spid-ico-circle-bb.svg
+│   │   ├── spid-idp-arubaid.png
+│   │   ├── spid-idp-arubaid.svg
+│   │   ├── spid-idp-infocertid.png
+│   │   ├── spid-idp-infocertid.svg
+│   │   ├── spid-idp-intesaid.png
+│   │   ├── spid-idp-intesaid.svg
+│   │   ├── spid-idp-namirialid.png
+│   │   ├── spid-idp-namirialid.svg
+│   │   ├── spid-idp-posteid.png
+│   │   ├── spid-idp-posteid.svg
+│   │   ├── spid-idp-sielteid.png
+│   │   ├── spid-idp-sielteid.svg
+│   │   ├── spid-idp-spiditalia.png
+│   │   ├── spid-idp-spiditalia.svg
+│   │   ├── spid-idp-timid.png
+│   │   ├── spid-idp-timid.svg
+│   ├── js
+│   │   ├── jquery.min.js
+│   │   ├── spid-sp-access-button.min.js
 ```
 
 ### Aggiornamenti
