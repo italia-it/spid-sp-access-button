@@ -1,10 +1,11 @@
 # SPID - Sistema Pubblico di Identità Digitale
+## Pulsante INPS per richiesta SPID
 
-## Componenti
+### Componenti
 Per gestire l’accesso ai servizi pubblici e privati che utilizzano il sistema SPID, si rende necessario, sia per una questione di user experience che di immagine del sistema, la standardizzazione delle interfacce, della comunicazione e dell’utilizzo del logo SPID.
 
 
-## SPID Sp Access Button
+### SPID Sp Access Button
 Il pulsante è disponibile in 4 dimensioni (s / m / l / xl) ed in formato “get” (chiamata ad una pagina esterna) e “post” (form interna al pulsante). I diversi IDP sono mostrati in ordine random attraverso una piccola funzione javascript che potrebbe essere sostituita attraverso una procedura di randomizzazione lato server.
 La pagina di accesso dovrà essere "mobile first" e utilizzabile su ogni tipologia di dispositivo.
 
@@ -13,7 +14,7 @@ Il pulsante è disponibile nella versione da utilizzare in produzione (productio
 Il sistema richiede Jquery 1.8+.
 
 
-## Struttura del file system
+### Struttura del file system
 ```
 spid-sp-access-button/
 │
@@ -72,42 +73,14 @@ spid-sp-access-button/
 │   │   │   ├── spid-sp-access-button.min.js
 ```
 
-## Aggiornamenti
+### Aggiornamenti
 
-### v1.5 (17/11/2017) - [Accedi ai dettagli delle modifiche](DETAILS-REL1.5.md)
-- Aggiunto Intesa ID
-- Aggiunto pulsante SPID da utilizzare in produzione e quello da utilizzare in sviluppo
-
-### v1.4 (26/06/2017) - [Accedi ai dettagli delle modifiche](DETAILS-REL1.4.md)
-- Aggiunto Namirial ID
-- Aggiunto SPIDItalia Register.it
-
-### v1.3 (05/02/2017) - [Accedi ai dettagli delle modifiche](DETAILS-REL1.3.md)
-- Aggiunto ARUBA ID
-- Aggiunta data-idp su punti elenco
-- Modifica link per informazioni e supporto
-
-### v1.2 (19/09/2016) - [Accedi ai dettagli delle modifiche](DETAILS-REL1.2.md)
-- Aggiunto SIELTE ID
-- Correzione link su dropdown
-
-### v1.1 (01/04/2016)
-- Correzione css per compatibilità pulsante
-- Modifica loghi POSTE ID e TIM ID
-
-### v1.0 (01/04/2016)
+#### v1.0 (11/06/2018)
 
 
-## Metadata IDP SPID
-### Metadata con tutti gli IDP SPID
-- [IDP SPID](https://registry.spid.gov.it/metadata/idp/spid-entities-idps.xml)
+### Metadata IDP SPID
 
-### Metadata singoli IDP SPID
-- [Aruba ID](https://loginspid.aruba.it/metadata)
-- [Infocert ID](https://identity.infocert.it/metadata/metadata.xml)
-- [Intesa ID](https://spid.intesa.it/metadata/metadata.xml)
-- [Namirial ID](https://idp.namirialtsp.com/idp/metadata)
-- [Poste ID](http://posteid.poste.it/jod-fs/metadata/metadata.xml)
-- [Sielte ID](https://identity.sieltecloud.it/simplesaml/metadata.xml)
-- [SPIDItalia Register.it](https://spid.register.it/login/metadata)
-- [Tim ID](https://login.id.tim.it/spid-services/MetadataBrowser/idp)
+#### Metadata INPS
+
+
+#### Metadata IDP SPID Aderenti
